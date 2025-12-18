@@ -1,0 +1,1 @@
+{"root":["./src/main.ts","./src/vite-env.d.ts","./src/stores/events.ts","./src/types/event.ts","./src/app.vue","./src/components/calendar.vue","./src/components/eventmodal.vue","./src/components/header.vue","./src/components/sidebar.vue"],"version":"5.9.3"}
